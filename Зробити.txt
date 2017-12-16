@@ -4,3 +4,9 @@ width 100%
 hwight 200px 
 
 padding ----
+
+
+Иконки 100 процентів 
+
+img перепесати на новий
+min-hainfg забрати
