@@ -210,30 +210,30 @@ article {
   background: url(../images/cover.png) no-repeat;
   margin-left: -720px;
 }
-.col-5 {
+.blackBG {
   min-height: 597px;
   padding: 109px 171px 91px;
   position: relative;
   background: rgba(0, 0, 0, 0.55);
 }
-.section-title-6 {
+.section-titleAMAZING {
   display: table;
   margin: 0 auto;
   position: relative;
 }
-.text-63 {
+.text-AMAZING {
   color: #ffffff;
   font-size: 2.625em; /* 42px / 16px = 2.625em */
   font-weight: 600;
   text-align: center;
 }
-.title-bottom-border-8 {
+.title-bottom-border-AMAZING {
   height: 2px;
   margin: 14px auto 0;
   width: 170px;
   background: #f7f7f7;
 }
-.text-64 {
+.text-Lorem {
   margin: 13px auto 0;
   width: 570px;
   color: #ffffff;
@@ -243,7 +243,7 @@ article {
 }
 
 
-.content-3 {
+.content-EXPLORE {
   margin: 76px 0 0;
   position: relative;
 }
